@@ -111,9 +111,9 @@ Please ensure you specify the correct 'source' path for the module.
 - This module currently does not provide any outputs.
 
 # Examples:Basic
-For detailed examples on how to use this module, please refer to the '[_example](https://github.com/opsstation/terraform-digitalocean-Kubernetes/tree/master/_example/basic)' directory within this repository.
+For detailed examples on how to use this module, please refer to the '[example](https://github.com/opsstation/terraform-digitalocean-Kubernetes/tree/master/_example/basic)' directory within this repository.
 # Examples:complete
-For detailed examples on how to use this module, please refer to the '[_example](https://github.com/opsstation/terraform-digitalocean-Kubernetes/tree/master/_example/complete)' directory within this repository.
+For detailed examples on how to use this module, please refer to the '[example](https://github.com/opsstation/terraform-digitalocean-Kubernetes/tree/master/_example/complete)' directory within this repository.
 
 ## Authors
 Your Name
