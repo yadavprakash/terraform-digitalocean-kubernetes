@@ -93,3 +93,4 @@ variable "registry_integration" {
   default     = false
   description = "Enables or disables the DigitalOcean container registry integration for the cluster."
 }
+
