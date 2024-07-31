@@ -17,7 +17,7 @@ This Terraform module creates structured Kubernetes for digitalocean resources w
 Example:Basic
 ```hcl
 module "Kubernetes_cluster" {
-  source             = "git::https://github.com/yadavprakash/terraform-digitalocean-kubernete.git?ref=v1.0.0"
+  source             = "git::https://github.com/yadavprakash/terraform-digitalocean-kubernete.git"
   name               = local.name
   environment        = local.environment
   region             = local.region
@@ -47,7 +47,7 @@ module "Kubernetes_cluster" {
 Example:complete
 ```hcl
 module "Kubernetes_cluster" {
-  source             = "git::https://github.com/yadavprakash/terraform-digitalocean-kubernete.git?ref=v1.0.0"
+  source             = "git::https://github.com/yadavprakash/terraform-digitalocean-kubernete.git"
   name               = local.name
   environment        = local.environment
   region             = local.region
